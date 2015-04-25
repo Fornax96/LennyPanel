@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=LennyPanel
+Comment=Quick access to your favorite emoticons.
+Exec=/bin/lennypanel
+Icon=/usr/share/doc/lennypanel/lennypanel.png
+Terminal=false
+Type=Application
+Categories=Application
+StartupNotify=true
